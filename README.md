@@ -37,5 +37,5 @@ Aqui são gerados os relatórios  dos CEP dos pacientes de forma incremental e d
 Os relatórios de CEP em csv tem seus campos separados por (;) e são facilmente convertidos em planilhas como a do exemplo  .
 
 Para compilar no terminal do Linux utilize o  GCC
-~$ gcc -std=c99 <FONTE>.c -o <OBJETO>.o
- Para executar ./<OBJETO>
+linha de comando ~$ GCC ~$ gcc -std=c99 sarcov2cad.c -o sarcov2cad.o 
+Para executar ./sarscov2cad 
